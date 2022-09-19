@@ -1,24 +1,20 @@
-# fridge-vue
+# Fridge (Fase I)
+Primeira fase do curso "Garota(o)s de Programas" de jemluz. Aqui aprendi o básico de HTML, CSS.
 
-## Project setup
-```
-npm install
-```
+Desenvolvimento de um frontend básico para um app de geladeira.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Deploy usando a plataforma Vercel.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Disponível em: https://vercel.com/alek444/fridge-html
 
-### Lints and fixes files
-```
-npm run lint
-```
+![image](https://user-images.githubusercontent.com/23065460/159166495-534ee730-0a66-45c6-82ce-509822ba5603.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+presentation
+
+# Requisitos
+- 4 páginas HTML: Home, Fridge, History e - 
+- Ranking.
+- Listagens de itens (estática) nas páginas
+ Fridge, History e Ranking.
+- Header com estilo compartilhado entre as páginas com menu de navegação.
