@@ -5,7 +5,7 @@ Desenvolvimento de um frontend básico para um app de geladeira.
 
 Deploy usando a plataforma Vercel.
 
-Disponível em: https://vercel.com/alek444/fridge-html
+Disponível em: http://fridge-html-xi.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/23065460/159166495-534ee730-0a66-45c6-82ce-509822ba5603.png)
 
@@ -13,8 +13,7 @@ Disponível em: https://vercel.com/alek444/fridge-html
 presentation
 
 # Requisitos
-- 4 páginas HTML: Home, Fridge, History e - 
-- Ranking.
+- 4 páginas HTML: Home, Fridge, History e Ranking.
 - Listagens de itens (estática) nas páginas
  Fridge, History e Ranking.
 - Header com estilo compartilhado entre as páginas com menu de navegação.
